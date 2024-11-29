@@ -1,14 +1,22 @@
-# Shopping-Centre-s-Analysis
-Performed analysis of historical data of Shopping Centes in Australia using Python and Power BI. This project is part of my internship at Reomnify as a Data Analyst and following are the tasks that I completed,
+### 🚲 **AdventureWorks BI Dashboard Project**  
 
-🔍 Data Analysis & Cleaning:
-Utilized Python for initial analysis and cleaning dataset, identifying data quality issues like missing values, duplicates and other discrepancies; enhancing the overall accuracy of the dataset. Also utilized Power Query for data transformation and cleansing.
+#### 📌 **Project Overview**  
+This project was part of the [Maven Analytics Power BI Desktop Course](https://mavenanalytics.io/), where I played the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company. The goal was to transform raw data into professional-quality reports and dashboards to track KPIs, regional performance, product trends, and high-value customers.
 
-📊 Data Quality Dashboards:
-Designed interactive dashboards in Power BI that tracked recurring data quality issues, helping the team monitor the issues within the updated datasets. 
+#### 🛠️ **Key Features**  
+- **Data Preparation**: Cleaned, transformed, and loaded data using Power Query.  
+- **Data Modeling**: Created relational models with fact and dimension tables, using star schema principles and defined relationships with primary and foreign keys.  
+- **DAX Calculations**: Built calculated columns and measures with DAX, applying filter context, time intelligence, and iterator functions to derive insights.  
+- **Data Visualization**: Designed interactive dashboards with KPI cards, line charts, trend analysis, slicers, drill-through pages, and custom tooltips following best visualization practices.  
+- **Role-Level Security (RLS)**: Implemented security roles for data access control.  
+- **Publishing**: Published the final report to Power BI Service with mobile layouts.
 
-🏢 Shopping Center Comparison:
-Built dashboards to compare multiple shopping centers over different time periods. Developed calculated columns and measures using DAX to track store additions and removals at a centre, providing actionable insights into shopping center performance.
+#### 📊 **Tools & Technologies**  
+- **Power BI Desktop**  
+- **Power Query**  
+- **DAX (Data Analysis Expressions)**  
+- **Power BI Service**  
 
-📌 Suburb & Store Analysis:
-Conducted a suburb-level analysis to identify the most and least active cities based on store openings and closings, also visualizing trends in store categories and popular brands.
+#### 🎯 **Project Outcome**  
+- Created a comprehensive business intelligence solution, simulating real-world BI tasks.  
+- Gained hands-on experience with the complete BI workflow: data extraction, transformation, modeling, visualization, and dashboard deployment.  
